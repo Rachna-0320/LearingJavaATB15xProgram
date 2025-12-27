@@ -12,8 +12,11 @@ public class Lab006_Data_Types {
         char c1 = '@' ;
 //        char c2 = '_' ;     valid
 //        char c3 = '✅' ;     valid
+
 //        System.out.println(c3);
 //        System.out.println(c2);
+//        char c4 = ' ' ;     valid
+//        System.out.println(c4);
 //           int Phone_no = 8619061603 ;  not valid because memory size
 //        long Phone = 8619061603L ; VALID and in the end L is must. (L & l) both valid
 //        float f = 3.14f ; in the end F is must
@@ -22,7 +25,7 @@ public class Lab006_Data_Types {
 
 
 //        String S = "Rachna" ; Non-primitive - anything that can broken
-//        Rachna -> R, a, c, h, n, a,- string is bunchs of chars
+//        Rachna -> R, a, c, h, n, a,- string is bunches of chars
 
 
     }
