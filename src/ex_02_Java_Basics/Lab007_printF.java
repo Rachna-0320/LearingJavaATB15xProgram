@@ -23,7 +23,7 @@ public class Lab007_printF {
         System.out.printf("%d * 4 = %d%n",b,b* 4);
         System.out.printf("%d * 5 = %d%n",b,b* 5);
         System.out.printf("%d * 6 = %d%n",b,b* 6);
-        System.out.printf("%d * 7 = %d%n",b,b*7 );
+        System.out.printf("%d * 7 = %d%n",b,b* 7);
         System.out.printf("%d * 8 = %d%n",b,b* 8);
         System.out.printf("%d * 9 = %d%n",b,b* 9);
         System.out.printf("%d * 10 = %d%n",b,b* 10);

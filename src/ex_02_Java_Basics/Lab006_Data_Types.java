@@ -12,7 +12,7 @@ public class Lab006_Data_Types {
         char c1 = '@' ;
 //        char c2 = '_' ;     valid
 //        char c3 = '✅' ;     valid
-
+//
 //        System.out.println(c3);
 //        System.out.println(c2);
 //        char c4 = ' ' ;     valid
