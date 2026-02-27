@@ -21,7 +21,7 @@ public class Lab012_Operators {
 //   Modulus operator
         int f = 6;
         int g = 5;
-//        System.out.println(f % g);   (remainder is 1)
+//        System.out.println(f % g);   (remainder is 1) (Modulus gives remainder)
 
 
     }
