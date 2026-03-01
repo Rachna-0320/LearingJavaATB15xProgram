@@ -17,7 +17,7 @@ public class Lab018_TypeCasting {
         System.out.println(e);
         long f = (long)c;
         System.out.println(c);
-
+//
         char g = 'A';
         int h = g;
         System.out.println(h);     // output = 65
