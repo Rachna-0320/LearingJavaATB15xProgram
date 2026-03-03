@@ -11,5 +11,7 @@ public class Lab27_Decrement_Operator {
         int result1 = --a1 ;
         System.out.println(result1);
         System.out.println(a1);
+
+
     }
 }
