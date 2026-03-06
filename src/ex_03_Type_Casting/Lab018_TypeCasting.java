@@ -23,7 +23,27 @@ public class Lab018_TypeCasting {
         System.out.println(h);     // output = 65
 
         int g1 = 66;
-        char g2 = (char)g1;
+        char g2 = (char)g1 ;
         System.out.println(g2);     // output = B
+
+//    boolean tc = true;
+//    String t = tc ;     incompatible types: boolean cannot be converted to String
+//        System.out.println(t);         output = invalid
+
+
+//         int val = 100;
+//         float value = 18.45f ;
+//         int total = (int) value + val ;
+//        System.out.println(total);
+        int y = 10;
+        float z = 10.5f;
+//        int y1 = y + z;      invalid
+        float z2 = y +z ;
+        int y2 = (int) z + y ;
+        System.out.println(y2);
+        System.out.println(z2);
+
+
+
     }
 }

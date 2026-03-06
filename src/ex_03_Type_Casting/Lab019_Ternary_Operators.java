@@ -14,6 +14,12 @@ public class Lab019_Ternary_Operators {
 //        int a = 5;
 //        String result = a > 0 ? "+ve" : "-ve";
 //        System.out.println(result);
+
+        short y = 10;
+        int z = y > 5 ? 1 : 2;
+        System.out.println(z);
+
+
 //
 //        int b = 10;
 //        boolean b1 = b > 10 ? true : false;

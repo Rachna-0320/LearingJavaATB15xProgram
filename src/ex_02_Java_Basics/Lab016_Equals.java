@@ -21,7 +21,7 @@ public class Lab016_Equals {
 
 //        int balaji_salary = 12;
 //        boolean b = ! (balaji_salary > 10 || balaji_salary < 5);
-//        System.out.println(b);        output = flase
+//        System.out.println(b);        output = false
 
     }
 }
