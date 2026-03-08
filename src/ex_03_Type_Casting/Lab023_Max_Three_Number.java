@@ -10,5 +10,14 @@ public class Lab023_Max_Three_Number {
         System.out.println("Max out of three = " + result);
 
 
+
+        int a1 = 2;
+        int a2 = 9;
+        int a3 = -11;
+
+        int a4 = (a1 < a2) ? (a2 > a3 ? a2 : a3) : a1 ;
+        System.out.println("Max out of three = " + a4);
+
+
     }
 }

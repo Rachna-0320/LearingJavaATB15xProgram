@@ -11,12 +11,12 @@ public class Lab029_If_Else_Condition_CLI {
             System.out.println("You can't vote");
         }
 
-        int age1 =Integer.parseInt(args[1]) ;
-        if (age1 > 24){
-            System.out.println("You can go to Goa");
-        }else{
-            System.out.println("You can't go to Goa");
-        }
+//        int age1 =Integer.parseInt(args[1]) ;
+//        if (age1 > 24){
+//            System.out.println("You can go to Goa");
+//        }else{
+//            System.out.println("You can't go to Goa");
+//        }
 
 
     }

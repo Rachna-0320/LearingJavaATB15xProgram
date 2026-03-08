@@ -10,5 +10,6 @@ public class Lab021_Max_Two_Number {
         System.out.println(max);
         System.out.println(min);
 
+
     }
 }
