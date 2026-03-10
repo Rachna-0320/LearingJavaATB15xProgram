@@ -11,13 +11,17 @@ public class Lab040_For_Loop {
 //            System.out.println(_1);
 //        }
 
-//       for (int i = 0; i > 0 ; i++) {
+//       for (int i = 0; i < 0 ; i++) {
 //           System.out.println(i);
 //       }
 //       System.out.println("End");
 
+//        for (int r = 0 ; r > 0 ; r++) {
+//            System.out.println(r);
 
-        for (int a = 5 ; a == 5 ; a++) {
+//}
+
+        for (int a =  0; a == 0 ; a++) {
         System.out.println(a);
 
         }

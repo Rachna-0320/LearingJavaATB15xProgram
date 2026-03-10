@@ -4,10 +4,6 @@ public class Lab035_Grade_Calculator {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int score = sc.nextInt();
-//        int score2 = sc.nextInt();
-//        int score3 = sc.nextInt();
-//        int score4 = sc.nextInt();
-//        int score5 = sc.nextInt();
 
         if ( score >= 90 &&  score <=100){
             System.out.println("Grade :- A");
