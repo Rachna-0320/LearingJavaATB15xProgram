@@ -51,8 +51,8 @@ public class Lab036_Switch_Statement {
         else {
             System.out.println("Invalid int is entered");
         }
-
         System.out.println("End of the Program");
 
+   scanner.close();
     }
 }

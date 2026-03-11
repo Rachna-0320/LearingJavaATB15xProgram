@@ -36,18 +36,15 @@ public class Lab039_Switch_Example {
         }
 
         int d = 11;
-        switch (-1) {
-            default :
+        switch (-11) {
+            default  :
                 System.out.println("Default");
-                break;
             case -1 :
                 System.out.println("10");
-                break;
+                break ;
             case 9 :
                 System.out.println("9");
                 break;
         }
-
-
     }
 }

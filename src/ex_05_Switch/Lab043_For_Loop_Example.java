@@ -18,15 +18,21 @@ public class Lab043_For_Loop_Example {
 //            System.out.println(b);
 //        }
 
-        int c = 5;
-        for (;c < 10 ; c++) {           // c++ and ++c both are same
-            System.out.println(c);
+//        int c = 5;
+//        for (;c < 10 ; c++) {           // c++ and ++c both are same
+//            System.out.println(c);
+//        }
 
-        }
+//        int d = 5;
+//        for (;d < 10 ; ++d) {
+//            System.out.println(d);
+//        }
+//        System.out.println(d);
 
-        int d = 5;
-        for (;d < 10 ; ++d) {
-            System.out.println(d);
+        int e = 10 ;
+        for ( ; e > 20 ; e++) {
+            System.out.println(e);
         }
-    }
+        System.out.println(e);
+     }
 }

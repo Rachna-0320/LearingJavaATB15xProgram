@@ -15,5 +15,6 @@ public class Lab047_For_Loop_Break_User_Input {
             }
             System.out.println(i);
         }
+        System.out.println("End");
     }
 }
