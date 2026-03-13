@@ -8,7 +8,7 @@ public class Lab048_For_Loop_Continue {
         int num = sc.nextInt();
 
         for (int i = 0; i < num ; i++) {
-//            System.out.println(i);
+            System.out.println(i);
             if (i == 5) {
               continue;
             }

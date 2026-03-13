@@ -12,13 +12,17 @@ public class Lab009_Char_Literal {
 
 //        char can be - A to Z, a-z, !, @, #, $, %, ^, &, *, (, ), _, +, =, .,
 //        char b = 65 ;
-//        System.out.println(b);     output = A
+//        System.out.println(b);     //output = A
 //        char b1 = 'A';
 //        System.out.println(b1);    output = A
         char z = 35 ;
         System.out.println(z);
 
-
+         char a1 = 10 ;
+         int b1 = 10;
+         int c1 = 10;
+        System.out.println(a1+ b1+c1);
+        System.out.println("Hello" + a1 + "Rachna");
 
 //        char c = ' ' ;
 //        System.out.println(c);     output = ?
