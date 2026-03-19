@@ -37,17 +37,13 @@ public class Lab068_String_Practice {
         System.out.println(b1);
 
 
-        String s1 = String.join("*","Hello" , "Java" ,"Programming") ;
+        String s1 = String.join("*","Hello " , " Java " ," Programming") ;
         System.out.println(s1);
 
         String s2 = "Java".replace('a' , 'o');
         System.out.println(s2);
 
-
+        boolean c = "Java".startsWith("Ja");
+        System.out.println(c);
     }
-
-
-
-
-
 }

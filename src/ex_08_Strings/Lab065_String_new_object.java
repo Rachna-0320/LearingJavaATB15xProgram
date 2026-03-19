@@ -8,7 +8,7 @@ public class Lab065_String_new_object {
         System.out.println(s2);
 
    String a = "Hello" ;
-   a = a.concat("World") ;
+   a = a.concat(" World") ;
         System.out.println(a);
 
 //        String Pool                    Heap
@@ -21,11 +21,10 @@ public class Lab065_String_new_object {
 //        String literal → String Pool
 //        String created by methods (concat, + at runtime) → Heap
 
-
         String a1 = "Hello" ;
-        a1 = a1.concat("World") ;
-        a1 = a1 + "Rachna" ;
-        String b = a1 + "Kumari" ;
+        a1 = a1.concat(" World") ;
+        a1 = a1 + " Rachna" ;
+        String b = a1 + " Kumari" ;
         System.out.println(b);
     }
 }

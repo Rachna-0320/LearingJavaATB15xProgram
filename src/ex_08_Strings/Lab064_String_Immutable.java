@@ -2,9 +2,9 @@ package ex_08_Strings;
 
 public class Lab064_String_Immutable {
     public static void main(String[] args) {
-//        String name = "Rachna" ;     // -> String constant pool
-//        name = name + "Kumari";       // ->  concatenation (+)
-//        System.out.println(name);    // -> Heap memory
+        String name = "Rachna" ;     // -> String constant pool
+        name = name + "Kumari";       // ->  concatenation (+)
+        System.out.println(name);    // -> Heap memory
 
 //        "Rachna"        (old object, still exists)        String Pool:
 //        "Kumari"          (literal in pool)               "Rachna"
@@ -15,12 +15,12 @@ public class Lab064_String_Immutable {
 //
 //                                                      name ───► "RachnaKumari"
 
-//        String name1 = "Reena" ;
-////        name1 = name1.toUpperCase();
-//        boolean result = name1.contains("e") ;
-//        System.out.println(result);
+        String name1 = "Reena" ;
+       name1 = name1.toUpperCase();
+        boolean result = name1.contains("e") ;
+        System.out.println(result);
 
-        // String are immutable.
+//         String are immutable.
 //          String child = "Nirav";
 //         child.toUpperCase();           // here new String is create "NIRAV" but it
 //            did not store it anywhere, so child still refer to "Nirav"
