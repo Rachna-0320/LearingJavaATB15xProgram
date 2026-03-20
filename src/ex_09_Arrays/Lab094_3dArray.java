@@ -1,6 +1,6 @@
 package ex_09_Arrays;
 
-public class Lab084_3dArray {
+public class Lab094_3dArray {
     public static void main(String[] args) {
         int[][][] arr_3D = {
                 {

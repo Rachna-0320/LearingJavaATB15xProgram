@@ -2,7 +2,7 @@ package ex_09_Arrays;
 
 import java.util.Scanner;
 
-public class Lab076_Array_User_Input {
+public class Lab086_Array_User_Input {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in) ;

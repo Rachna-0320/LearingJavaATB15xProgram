@@ -17,9 +17,5 @@ public class Lab077_String_charAt {
         System.out.println(code.charAt(4));
         System.out.println(code.charAt(5));
         System.out.println(code.charAt(6));
-
-
-
-
     }
 }

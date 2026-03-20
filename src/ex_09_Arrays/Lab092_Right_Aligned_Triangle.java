@@ -1,6 +1,6 @@
 package ex_09_Arrays;
 
-public class Lab082_Right_Aligned_Triangle {
+public class Lab092_Right_Aligned_Triangle {
     public static void main(String[] args) {
 
         int n = 10;

@@ -1,6 +1,6 @@
 package ex_09_Arrays;
 
-public class Lab073_Array_Practice {
+public class Lab083_Array_Practice {
     public static void main(String[] args) {
         int[] marks = {1, 2, 3, 4, 5} ;
 

@@ -1,6 +1,6 @@
 package ex_09_Arrays;
 
-public class Lab080_2DArray {
+public class Lab090_2DArray {
     public static void main(String[] args) {
 
         // 2D ARRAY

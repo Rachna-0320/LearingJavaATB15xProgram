@@ -1,6 +1,6 @@
 package ex_09_Arrays;
 
-public class Lab077_Array_Reverse {
+public class Lab087_Array_Reverse {
     public static void main(String[] args) {
 
         String[] names = {"Uma", "Nirav", "Rcahna", "Moni", "Uttam", "Somdev"} ;

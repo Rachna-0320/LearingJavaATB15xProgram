@@ -1,6 +1,6 @@
 package ex_09_Arrays;
 
-public class Lab083_2nd_Highest_Array {
+public class Lab093_2nd_Highest_Array {
     public static void main(String[] args) {
 
 //        int[] numbers = {12, 56, 89, 53, 89, 46, 52} ;

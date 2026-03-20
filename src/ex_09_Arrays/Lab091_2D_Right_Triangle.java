@@ -2,7 +2,7 @@ package ex_09_Arrays;
 
 import java.util.Scanner;
 
-public class Lab081_2D_Right_Triangle {
+public class Lab091_2D_Right_Triangle {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in) ;

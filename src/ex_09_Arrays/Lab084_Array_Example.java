@@ -1,6 +1,6 @@
 package ex_09_Arrays;
 
-public class Lab074_Array_Example {
+public class Lab084_Array_Example {
     public static void main(String[] args) {
 
         String[] fruits = new String[3] ;
@@ -29,8 +29,9 @@ public class Lab074_Array_Example {
 //
 //        System.out.println("=".repeat(5));
 
-   for(int i = 0 ; i < marks.length ; i++){
-       System.out.println(marks[i]);
-        }
+   for(int i = 0 ; i < marks.length ; i++){         //  Using for loop
+       System.out.println(marks[i]);                // when you need index
+
+   }
     }
 }
