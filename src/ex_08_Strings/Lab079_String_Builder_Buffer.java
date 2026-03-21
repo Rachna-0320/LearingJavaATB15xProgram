@@ -27,8 +27,5 @@ public class Lab079_String_Builder_Buffer {
         sb.append("World");
         sb.reverse();
         System.out.println(sb);
-
-
-
     }
 }
