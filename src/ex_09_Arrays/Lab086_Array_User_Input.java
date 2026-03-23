@@ -12,7 +12,7 @@ public class Lab086_Array_User_Input {
         int[] numbersMarks = new int[size];
 
         for(int i = 0 ; i < numbersMarks.length ; i++ ) {
-            System.out.println("Enter marks");
+            System.out.println("Enter marks for subject " + (i + 1));
             numbersMarks[i] = scanner.nextInt() ;
         }
         System.out.println("=".repeat(10));
@@ -20,7 +20,7 @@ public class Lab086_Array_User_Input {
         for (int i = 0 ; i < numbersMarks.length ; i++) {
             System.out.println(numbersMarks[i]);
         }
-
+        scanner.close();
     }
 
 }
