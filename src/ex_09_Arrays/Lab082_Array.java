@@ -19,9 +19,6 @@ public class Lab082_Array {
 //   name is a temporary variable
 //   It stores one value at a time from array
 //
-//
-//
-//
 //         float[] values = new float[3];
 //         values[0] = 3.14f ;
 //        values[1] = 4.14f ;

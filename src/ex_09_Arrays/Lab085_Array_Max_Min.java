@@ -23,6 +23,6 @@ public class Lab085_Array_Max_Min {
         }
         System.out.println(max);
 
+}
 
-    }
 }
