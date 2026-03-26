@@ -2,7 +2,7 @@ package ex_09_Arrays;
 
 import java.util.Arrays;
 
-public class Lab085_Array_Max_Min {
+public class Lab085_Array_Max {
     public static void main(String[] args) {
 
         // Finding maximum and second maximum using Arrays.sort()

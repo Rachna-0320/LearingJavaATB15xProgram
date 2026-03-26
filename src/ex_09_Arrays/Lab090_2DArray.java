@@ -3,7 +3,7 @@ package ex_09_Arrays;
 public class Lab090_2DArray {
     public static void main(String[] args) {
 
-        // 2D ARRAY
+        // Printing 2D array using nested loops
         int[][] matrix = {
                 {1, 2, 3} ,
                 {4, 5, 6} ,
