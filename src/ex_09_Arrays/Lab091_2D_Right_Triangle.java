@@ -14,5 +14,6 @@ public class Lab091_2D_Right_Triangle {
             }
             System.out.println(" ");
         }
+        scanner.close();
     }
 }
