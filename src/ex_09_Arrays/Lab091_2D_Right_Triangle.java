@@ -12,7 +12,7 @@ public class Lab091_2D_Right_Triangle {
             for (int j = 0 ; j <= i ; j++) {
                 System.out.print("*");
             }
-            System.out.println(" ");
+            System.out.println();
         }
         scanner.close();
     }

@@ -18,5 +18,6 @@ public class Lab096_Array_Scanner_Class {
         for(int i = 0 ; i < b.length ; i++){
              System.out.println(b[i]);
 }
+
        }
 }
