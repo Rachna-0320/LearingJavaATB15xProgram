@@ -1,12 +1,13 @@
 package ex_10_OOPs;
 
-public class Lab0104_OOPs {
+public class Lab0106_OOPs {
     String name ;
 
     public static void main(String[] args) {
 
         Person p1 = new Person();
         p1.name = "Somya";
+        System.out.println(p1.name);
 
         Person p2 = new Person();  //Reference variable + object creation + constructor call
         p2.name = "Somya";          // same reference but different object is created
