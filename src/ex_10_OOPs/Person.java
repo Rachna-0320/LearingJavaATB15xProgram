@@ -1,21 +1,22 @@
 package ex_10_OOPs;
 
 public class Person {
-    String name ;
 
-    public static void main(String[] args) {
+    //   Attributes
+        String name;
+        int age;
+        String gender;
+        int salary;
+        long phone_no;
+        String address;
+        String courseName;
+        boolean married;
 
-        Person p1 = new Person();
-        p1.name = "Somya";
-
-        Person p2 = new Person();
-        p2.name = "Somya";
-
-        Person p3;      //Only declared, not created, No memory allocated, No object created
-
-
-        new Person() ;  // This creates an object BUT ❗, •No variable to store it,
-        // •	So it gets lost (garbage)
+        // Behaviour
+    void speak(){}
+    void eat(){}
+    void sleep(){};
+    void doAssignment(){};
+    void watchRecordings(){};
     }
 
-}
