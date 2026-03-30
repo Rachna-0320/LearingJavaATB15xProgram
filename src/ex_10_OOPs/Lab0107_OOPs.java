@@ -1,6 +1,6 @@
 package ex_10_OOPs;
 
-public class Lab0106_OOPs {
+public class Lab0107_OOPs {
     String name ;
 
     public static void main(String[] args) {
@@ -10,7 +10,8 @@ public class Lab0106_OOPs {
         System.out.println(p1.name);
 
         Person p2 = new Person();  //Reference variable + object creation + constructor call
-        p2.name = "Somya";          // same reference but different object is created
+        p2.name = "Somya";
+//        p1.name = "Somya";    // same reference but different object is created
 
         Person p3;        // It is pointing to null area
                          // Only declared, not created, No memory allocated, No object created

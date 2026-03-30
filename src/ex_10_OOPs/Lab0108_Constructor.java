@@ -1,6 +1,6 @@
 package ex_10_OOPs;
 
-public class Lab0107_Constructor {
+public class Lab0108_Constructor {
     public static void main(String[] args) {
 
         Animal dog = new Animal();
