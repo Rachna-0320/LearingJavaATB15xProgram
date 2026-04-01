@@ -9,7 +9,6 @@ package ex_10_OOPs;
 
     class Book {
         String name;
-
         // Default Constructor with initialization
         Book() {
             name = "Atomic Habits";
@@ -18,7 +17,6 @@ package ex_10_OOPs;
 
     class Pet {
         String name;
-
         // Parameterized Constructor
         Pet(String n) {
             this.name = n;
@@ -26,6 +24,7 @@ package ex_10_OOPs;
     }
 public class Lab0110_OOPs_Class_Object {
     public static void main(String[] args) {
+
         Student s1 = new Student();
 
         Book b1 = new Book();
