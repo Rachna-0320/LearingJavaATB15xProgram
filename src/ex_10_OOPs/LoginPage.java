@@ -12,7 +12,7 @@ public class LoginPage {
 
     // Constructor 2
     LoginPage(String emailGiven){
-        this.email =emailGiven;
+        this.email = emailGiven;
     }
 
     // Constructor 3
