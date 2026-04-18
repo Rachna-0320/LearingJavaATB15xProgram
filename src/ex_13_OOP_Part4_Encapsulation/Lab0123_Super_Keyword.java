@@ -28,6 +28,7 @@ class superClass{
 }
 
 class testCase extends superClass {
+
     testCase() {
         super("Chrome");   // using super keyword
         System.out.println("Subclass Constructor");
