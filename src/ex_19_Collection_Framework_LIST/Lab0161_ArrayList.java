@@ -32,7 +32,7 @@ public class Lab0161_ArrayList {
         System.out.println("=".repeat(5));
 
         // Enhanced for loop
-        for(Object o : list){
+        for(Object o : list){       // use object because this code store different data types.
             System.out.println(o);
         }
 
