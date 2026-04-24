@@ -32,7 +32,7 @@ public class Lab0167_LinkedList_Practice {
 
         System.out.println(fruits.size());
 
-       fruits.remove(2);
+       fruits.remove(2); // LinkedList support index-based methods, but it does not use index-based storage
         System.out.println(fruits.contains("Orange"));
         System.out.println(fruits.isEmpty());
 

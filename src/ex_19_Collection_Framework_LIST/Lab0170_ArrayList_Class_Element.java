@@ -33,8 +33,8 @@ class APIAutomation{
     public String getAppName() {
         return appName;
     }
-    public void setAppName(String appNmae) {
-        this.appName = appNmae;
+    public void setAppName(String appName) {
+        this.appName = appName;
     }
 
     public String getUrls() {
