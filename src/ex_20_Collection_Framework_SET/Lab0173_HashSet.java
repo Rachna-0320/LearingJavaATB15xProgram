@@ -15,6 +15,5 @@ public class Lab0173_HashSet {
         hs.add(null);
         System.out.println(hs);
         System.out.println(hs.size());
-
     }
 }
