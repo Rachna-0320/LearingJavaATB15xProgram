@@ -1,21 +1,17 @@
 package ex_21_Collection_Framework_Queue_Map;
 
 import java.util.*;
-
 public class Lab0180_Map {
     public static void main(String[] args) {
 
         Map<String, Integer> marks = new HashMap<>();
-
         // No Guaranteed order!
         marks.put("Rahul", 95);
         marks.put("Bob", 84);
         marks.put("Amit", 84);
         marks.put("Queen", 90);
         marks.put("Charlie", 78);
-
         marks.put("Charlie", 78);
-
         System.out.println("Map: " + marks);
 
         // Accessing
