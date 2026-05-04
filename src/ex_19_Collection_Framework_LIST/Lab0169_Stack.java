@@ -25,6 +25,7 @@ public class Lab0169_Stack {
         System.out.println("=".repeat(10));
 
         name.push("Reena");
+        
         System.out.println("After push: " + name);
         name.push("Parit");
         System.out.println("Final Stack: " + name);
